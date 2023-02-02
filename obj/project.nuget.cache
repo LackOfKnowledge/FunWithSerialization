@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ctdmfxQdvWFoFNoEOa9N6J+hCz6DA6l8dc1rfcRQcOv13pIMaHOClNpq9BUXj9yRIrHpjowRYyVfmSYJM7qJBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janke\\source\\repos\\FunWithSerialization\\FunWithSerialization\\FunWithSerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janke\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

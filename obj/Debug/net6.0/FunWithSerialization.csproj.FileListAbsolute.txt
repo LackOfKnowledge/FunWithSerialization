@@ -1,0 +1,17 @@
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\bin\Debug\net6.0\FunWithSerialization.exe
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\bin\Debug\net6.0\FunWithSerialization.deps.json
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\bin\Debug\net6.0\FunWithSerialization.runtimeconfig.json
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\bin\Debug\net6.0\FunWithSerialization.dll
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\bin\Debug\net6.0\FunWithSerialization.pdb
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\obj\Debug\net6.0\FunWithSerialization.csproj.AssemblyReference.cache
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\obj\Debug\net6.0\FunWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\obj\Debug\net6.0\FunWithSerialization.AssemblyInfoInputs.cache
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\obj\Debug\net6.0\FunWithSerialization.AssemblyInfo.cs
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\obj\Debug\net6.0\FunWithSerialization.csproj.CoreCompileInputs.cache
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\obj\Debug\net6.0\FunWithSerialization.csproj.CopyComplete
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\obj\Debug\net6.0\FunWithSerialization.dll
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\obj\Debug\net6.0\refint\FunWithSerialization.dll
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\obj\Debug\net6.0\FunWithSerialization.pdb
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\obj\Debug\net6.0\FunWithSerialization.genruntimeconfig.cache
+C:\Users\janke\source\repos\FunWithSerialization\FunWithSerialization\obj\Debug\net6.0\ref\FunWithSerialization.dll
